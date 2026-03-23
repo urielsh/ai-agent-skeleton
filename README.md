@@ -1,6 +1,6 @@
 # AI Agent Skeleton
 
-A full-stack template for building AI-powered analysis agents. Users submit input through guided chat, the system collects structured data via LLM, runs a deterministic engine, and returns scored results.
+A full-stack template for building AI-powered analysis agents. Users submit input through guided chat, the system collects structured data via LLM, runs a compute engine, and returns results.
 
 **INPUT &rarr; LLM + ENGINE &rarr; OUTPUT**
 
